@@ -65,7 +65,7 @@ const Chat = () => {
             {showModal && (
                 <div className="modal">
                     <div className="modal-content">
-                        <h2>Digite seu nome de usuario</h2>
+                        <h2>Digite seu nome de usuário</h2>
                         <input
                             type="text"
                             value={username}
